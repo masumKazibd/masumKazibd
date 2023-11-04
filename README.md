@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @masumKazibd
 - 👀 I’m interested in Android Apps, Web Application Development, DevOps & AWS.
 - 🌱 I’m learning SQL Server, Node.js, .Net Framework & Angular.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on MVC.Net, .Net Core, Angular
 - 📫 How to reach me email to contact.masumkazi@gmail.com
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies
 <div align="center">
