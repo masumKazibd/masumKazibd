@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @masumKazibd
 - 👀 I’m interested in Android Apps, Web Application Development, DevOps & AWS.
 - 🌱 I’m learning SQL Server, Node.js, .Net Framework & Angular.
-- 💞️ I’m looking to collaborate on MVC.Net, .Net Core, Angular
+- 💞️ I’m looking to collaborate on Asp.Net MVC, .Net Core, Angular
 - 📫 How to reach me email to contact.masumkazi@gmail.com
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies
 <div align="center">
@@ -25,6 +25,8 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 
 </div>
 
@@ -37,6 +39,7 @@
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masumkazi/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/masumkazibd)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/masumkazi)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/masum.kazi.1829)
+
 
