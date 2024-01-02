@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masumkazibd&label=Profile%20views&color=0e75b6&style=flat" alt="masumkazibd" /> </p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- 👋 Hi, I’m Masum Kazi
+- 👋 Hi, I’m **Masum Kazi**
 - 👀 I’m interested in Android Apps, Web Application Development, DevOps & AWS.
 - 🌱 I’m learning SQL Server, Node.js, .Net Framework & Angular.
 - 💞️ I’m looking to collaborate on Asp.Net MVC, .Net Core, Angular
