@@ -2,14 +2,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 - 👋 Hi, I’m **Masum Kazi**
-- 👀 I’m interested in Android Apps, Web Application Development, DevOps & AWS.
+- 👀 I’m interested in Android Apps, Web Application Development, Automation, DevOps & AWS.
 - 🌱 I’m learning SQL Server, Node.js, .Net Framework & Angular.
 - 💞️ I’m looking to collaborate on Asp.Net MVC, .Net Core, Angular
 - 📫 How to reach me email to contact.masumkazi@gmail.com
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies
 <div align="center">
 
-
+![Appium](https://img.shields.io/badge/Appium-00B6FF?style=flat-square&logo=appium&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF9900?style=flat-square&logo=browserstack&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
