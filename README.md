@@ -6,6 +6,12 @@
 - 🌱 I'm learning topics that interest me.
 - 💞️ I’m looking to collaborate on Asp.Net MVC, .Net Core, Angular
 - 📫 Reach me by email at contact.masumkazi@gmail.com
+## TryHackMe Profile
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1097873.png)](https://tryhackme.com/p/1097873)
+
+
+
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies
 <div align="center">
 
@@ -62,6 +68,7 @@
 [![Learn Microsoft](https://img.shields.io/badge/Learn%20Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/masumkazi/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@masumkazibd)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/masumkazi/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/1097873)
 </div>
 
 
