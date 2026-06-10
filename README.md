@@ -55,10 +55,6 @@
 </div>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Let's connected to
-<div align='center'>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/masumkazi.png" alt="Your Image Badge" />
-</div>
-<div align="center">
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masumkazi/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/masumkazi)
