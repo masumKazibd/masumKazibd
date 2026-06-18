@@ -1,11 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masumkazibd&label=Profile%20views&color=0e75b6&style=flat" alt="masumkazibd" /> </p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- 👋 Hello world! I’m **Masum Kazi**
-- 👀 I’m interested in Android Apps, Web Application Development, Automation, DevOps & AWS.
-- 🌱 I'm learning topics that interest me.
-- 💞️ I’m looking to collaborate on Asp.Net MVC, .Net Core, Angular
-- 📫 Reach me by email at contact.masumkazi@gmail.com
+- 👋 Hello! I’m **Masum Kazi**
+- 🚀 Software Engineer | CSE Undergraduate | CTF Player | .NET Developer | Automation Tester
+- 👀 Interested in **Software Engineering, Web Development, Automation Testing, DevOps, Cloud Computing (AWS), and Cybersecurity**
+- 🌱 Currently learning **System Design, DevOps, and Python for Cybersecurity**
+- 💞️ Looking to collaborate on **ASP.NET Core, Angular, Automation Testing, and Open Source Projects**
+- 🔧 Experienced with **C#, .NET, Angular, SQL Server, Selenium, Appium, BrowserStack, and REST APIs**
+- 📫 Reach me at: **[contact.masumkazi@gmail.com](mailto:contact.masumkazi@gmail.com)** 
 
 
 
