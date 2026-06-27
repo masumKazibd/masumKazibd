@@ -38,14 +38,6 @@
 </div>
 
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My GitHub Status
-<div align = "center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masumkazibd\&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masumkazibd\&layout=compact)
-
-</div>
-
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Read what i write
 
 <div align= "center">
